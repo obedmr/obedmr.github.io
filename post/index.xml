@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Obed&#39;s Blog</title>
+    <link>http://obedmr.com/post/</link>
+    <description>Recent content in Posts on Obed&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://obedmr.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduccion a &#39;Un mensaje diario&#39;</title>
+      <link>http://obedmr.com/2018/03/introduccion-a-un-mensaje-diario/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/2018/03/introduccion-a-un-mensaje-diario/</guid>
+      <description>&lt;p&gt;Este es un inicio de algo que quiero emprender. Un mensaje diario de lo que estoy
+aprendiendo al estar estudiando la palabra de Dios. El propósito es compartir lo
+que Dios me permite aprender cada día.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estudio de 1 y 2 de Timoteo</title>
+      <link>http://obedmr.com/2018/01/estudio-de-1-y-2-de-timoteo/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/2018/01/estudio-de-1-y-2-de-timoteo/</guid>
+      <description>&lt;p&gt;Cuando hablamos del servicio a Dios, no se trata de un simple servicio
+que se deba llevar a la ligera. En las cartas del apostol Pablo a
+Timoteo encontramos un gran tesoro inspirado por el Espíritu Santo que
+aborda una serie de consejos muy prácticos para llevar a cabo con
+exelencia la obra que Dios nos ha encomendado.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tech talks</title>
+      <link>http://obedmr.com/2017/06/tech-talks/</link>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/2017/06/tech-talks/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;This page is meant for listing the tech talks I have been sharing on different forums.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Verbacious 101</title>
+      <link>http://obedmr.com/2017/06/verbacious-101/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/2017/06/verbacious-101/</guid>
+      <description>This time I have the opportunity to share some of the lessons learned on my career. I went to Zacatecas city for the 2017 CISOL which is an Open Source conference that gathers students and professionals from all the country for sharing Open Source related projects.
+I’ve been invited to this event since 2 years ago, on last conferences I usually shared very technical talks about Open Source cloud project like OpenStack, CIAO and Docker.</description>
+    </item>
+    
+    <item>
+      <title>Containers raise, why OpenStack needs Kubernetes</title>
+      <link>http://obedmr.com/2017/05/containers-raise-why-openstack-needs-kubernetes/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/2017/05/containers-raise-why-openstack-needs-kubernetes/</guid>
+      <description>As member of the OpenStack GDL community this was the first time I present a topic there.
+I talked about the Containers trending technologies and they&amp;rsquo;re affecting the Cloud ecosystem, in this case OpenStack. How OpenStack is driving the efforts for delivering Container as a Service and also deployment of OpenStack on top of Containers.
+If you want to take a look on my presentation, feel free to take a look on it and comment.</description>
+    </item>
+    
+    <item>
+      <title>Golang, Python or C/C&#43;&#43;, who wins?</title>
+      <link>http://obedmr.com/golang-python-c-who-wins/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/golang-python-c-who-wins/</guid>
+      <description>This time I had an opportunity for presenting at Ameca, Jalisco. I presented at the CUVALLES university.
+My talk was about some of the key features of Golang, Python and C/C++ programming languages. But, this was not the main reason I choose this topic. The idea is to explain the process for choosing a good programming language for your project. It&amp;rsquo;s not about the language, it&amp;rsquo;s about the problem you want to solve and which are the features a programming language can offer you to solve the problem.</description>
+    </item>
+    
+    <item>
+      <title>My First Official post</title>
+      <link>http://obedmr.com/2017/01/my-first-official-post/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/2017/01/my-first-official-post/</guid>
+      <description>&lt;p&gt;Some folks may say that this is crazy but let&amp;rsquo;s do it. I think we learn so much from other and I&amp;rsquo;d like to share some thoughts and experiences.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big Data in the Cloud? Yes, you can do it in OpenStack</title>
+      <link>http://obedmr.com/2016/08/big-data-in-the-cloud-yes-you-can-do-it-in-openstack/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/2016/08/big-data-in-the-cloud-yes-you-can-do-it-in-openstack/</guid>
+      <description>I had the opportunity to share some of the Big Data approaches that OpenStack is offering with the Sahara project. With Sahara, you can deploy Hadoop and Spark clusters inside OpenStack infrastructure.
+The forum I presented this was at the Datalab Community
+If you want to take a look on my presentation, feel free to take a look on it and comment. Big Data in the Cloud? Yes, you can do it in OpenStack</description>
+    </item>
+    
+    <item>
+      <title>OpenStack Introduction</title>
+      <link>http://obedmr.com/2015/05/openstack-introduction/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/2015/05/openstack-introduction/</guid>
+      <description>This is talk I gave a Zacatecas City about OpenStack. Basically, this is an introduction that explains the origins of Cloud computing, some key cloud concepts and how OpenStack delivers Infrastructure as a Service.
+If you want to take a look on my presentation, feel free to take a look on it and comment. OpenStack Introduction</description>
+    </item>
+    
+    <item>
+      <title>Vagrant: A fast way for building development environments</title>
+      <link>http://obedmr.com/2014/11/vagrant-a-fast-way-for-building-development-environments/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/2014/11/vagrant-a-fast-way-for-building-development-environments/</guid>
+      <description>This is the first time a come to Zacatecas. This time I&amp;rsquo;m presenting an overview of Vagrant and how it&amp;rsquo;s used for accelerating development.
+If you want to take a look on my presentation, feel free to take a look on it and comment. Vagrant</description>
+    </item>
+    
+  </channel>
+</rss>
