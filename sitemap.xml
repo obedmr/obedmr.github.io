@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://obedmr.com/2018/03/introduccion-a-un-mensaje-diario/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <loc>http://obedmr.com/2019/02/who-has-made-mans-mouth/</loc>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://obedmr.com/2018/01/estudio-de-1-y-2-de-timoteo/</loc>
-    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+    <loc>http://obedmr.com/2018/03/introduccion-a-un-mensaje-diario/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -65,13 +65,13 @@
   
   <url>
     <loc>http://obedmr.com/tags/bible/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://obedmr.com/categories/bible/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,14 +82,20 @@
   </url>
   
   <url>
+    <loc>http://obedmr.com/tags/daily/</loc>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://obedmr.com/categories/daily/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://obedmr.com/categories/english/</loc>
-    <lastmod>2017-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -101,13 +107,13 @@
   
   <url>
     <loc>http://obedmr.com/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://obedmr.com/post/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -131,7 +137,7 @@
   
   <url>
     <loc>http://obedmr.com/tags/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

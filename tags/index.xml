@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Obed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://obedmr.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Bible</title>
       <link>http://obedmr.com/tags/bible/</link>
-      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://obedmr.com/tags/bible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daily</title>
+      <link>http://obedmr.com/tags/daily/</link>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://obedmr.com/tags/daily/</guid>
       <description></description>
     </item>
     
