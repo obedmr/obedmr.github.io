@@ -64,13 +64,13 @@
   </url>
   
   <url>
-    <loc>http://obedmr.com/tags/bible/</loc>
+    <loc>http://obedmr.com/categories/bible/</loc>
     <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://obedmr.com/categories/bible/</loc>
+    <loc>http://obedmr.com/tags/bible/</loc>
     <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -82,13 +82,13 @@
   </url>
   
   <url>
-    <loc>http://obedmr.com/tags/daily/</loc>
+    <loc>http://obedmr.com/categories/daily/</loc>
     <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://obedmr.com/categories/daily/</loc>
+    <loc>http://obedmr.com/tags/daily/</loc>
     <lastmod>2019-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -118,14 +118,14 @@
   </url>
   
   <url>
-    <loc>http://obedmr.com/tags/posts/</loc>
-    <lastmod>2017-01-22T00:00:00+00:00</lastmod>
+    <loc>http://obedmr.com/categories/posts/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://obedmr.com/categories/posts/</loc>
-    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
+    <loc>http://obedmr.com/tags/posts/</loc>
+    <lastmod>2017-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -142,25 +142,25 @@
   </url>
   
   <url>
-    <loc>http://obedmr.com/tags/talks/</loc>
-    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://obedmr.com/categories/talks/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://obedmr.com/tags/tech/</loc>
+    <loc>http://obedmr.com/tags/talks/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://obedmr.com/categories/tech/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://obedmr.com/tags/tech/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
