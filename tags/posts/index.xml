@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Obed&#39;s Blog</title>
+    <title>posts on Obed&#39;s Blog</title>
     <link>http://obedmr.com/tags/posts/</link>
-    <description>Recent content in Posts on Obed&#39;s Blog</description>
+    <description>Recent content in posts on Obed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jan 2017 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://obedmr.com/2017/01/my-first-official-post/</guid>
-      <description>&lt;p&gt;Some folks may say that this is crazy but let&amp;rsquo;s do it. I think we learn so much from other and I&amp;rsquo;d like to share some thoughts and experiences.
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Some folks may say that this is crazy but let&amp;rsquo;s do it. I think we learn so much from other and I&amp;rsquo;d like to share some thoughts and experiences.&lt;/p&gt;</description>
     </item>
     
   </channel>

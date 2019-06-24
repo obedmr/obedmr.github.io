@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on Obed&#39;s Blog</title>
+    <title>talks on Obed&#39;s Blog</title>
     <link>http://obedmr.com/tags/talks/</link>
-    <description>Recent content in Talks on Obed&#39;s Blog</description>
+    <description>Recent content in talks on Obed&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jun 2017 00:00:00 +0000</lastBuildDate>
@@ -19,8 +19,7 @@
       <guid>http://obedmr.com/2017/06/tech-talks/</guid>
       <description>&lt;hr /&gt;
 
-&lt;p&gt;This page is meant for listing the tech talks I have been sharing on different forums.
-&lt;/p&gt;</description>
+&lt;p&gt;This page is meant for listing the tech talks I have been sharing on different forums.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,10 +45,10 @@ If you want to take a look on my presentation, feel free to take a look on it an
     
     <item>
       <title>Golang, Python or C/C&#43;&#43;, who wins?</title>
-      <link>http://obedmr.com/golang-python-c-who-wins/</link>
+      <link>http://obedmr.com/2017/05/golang-python-or-c/c-who-wins/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/golang-python-c-who-wins/</guid>
+      <guid>http://obedmr.com/2017/05/golang-python-or-c/c-who-wins/</guid>
       <description>This time I had an opportunity for presenting at Ameca, Jalisco. I presented at the CUVALLES university.
 My talk was about some of the key features of Golang, Python and C/C++ programming languages. But, this was not the main reason I choose this topic. The idea is to explain the process for choosing a good programming language for your project. It&amp;rsquo;s not about the language, it&amp;rsquo;s about the problem you want to solve and which are the features a programming language can offer you to solve the problem.</description>
     </item>
