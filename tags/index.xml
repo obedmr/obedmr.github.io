@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Obed N Munoz&#39;s Blog</title>
-    <link>http://example.org/tags/</link>
+    <link>http://obedmr.com/tags/</link>
     <description>Recent content in Tags on Obed N Munoz&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://obedmr.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bible</title>
-      <link>http://example.org/tags/bible/</link>
+      <link>http://obedmr.com/tags/bible/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/bible/</guid>
+      <guid>http://obedmr.com/tags/bible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>treasure</title>
-      <link>http://example.org/tags/treasure/</link>
+      <link>http://obedmr.com/tags/treasure/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/treasure/</guid>
+      <guid>http://obedmr.com/tags/treasure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timoteo</title>
-      <link>http://example.org/tags/timoteo/</link>
+      <link>http://obedmr.com/tags/timoteo/</link>
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/timoteo/</guid>
+      <guid>http://obedmr.com/tags/timoteo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talks</title>
-      <link>http://example.org/tags/talks/</link>
+      <link>http://obedmr.com/tags/talks/</link>
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/talks/</guid>
+      <guid>http://obedmr.com/tags/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
-      <link>http://example.org/tags/tech/</link>
+      <link>http://obedmr.com/tags/tech/</link>
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/tech/</guid>
+      <guid>http://obedmr.com/tags/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>posts</title>
-      <link>http://example.org/tags/posts/</link>
+      <link>http://obedmr.com/tags/posts/</link>
       <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/posts/</guid>
+      <guid>http://obedmr.com/tags/posts/</guid>
       <description></description>
     </item>
     

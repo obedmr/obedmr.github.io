@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tech-talks on Obed N Munoz&#39;s Blog</title>
-    <link>http://example.org/categories/tech-talks/</link>
+    <link>http://obedmr.com/categories/tech-talks/</link>
     <description>Recent content in tech-talks on Obed N Munoz&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 22 May 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/tech-talks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://obedmr.com/categories/tech-talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OpenStack Introduction</title>
-      <link>http://example.org/tech/en/openstack-introduction/</link>
+      <link>http://obedmr.com/tech/en/openstack-introduction/</link>
       <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tech/en/openstack-introduction/</guid>
+      <guid>http://obedmr.com/tech/en/openstack-introduction/</guid>
       <description>This is talk I gave a Zacatecas City about OpenStack. Basically, this is an introduction that explains the origins of Cloud computing, some key cloud concepts and how OpenStack delivers Infrastructure as a Service.
 If you want to take a look on my presentation, feel free to take a look on it and comment. OpenStack Introduction</description>
     </item>

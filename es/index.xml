@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obed N Munoz&#39;s Blog</title>
-    <link>http://example.org/es/</link>
+    <link>http://obedmr.com/es/</link>
     <description>Recent content on Obed N Munoz&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 11 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://obedmr.com/es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introducción al Tesoro Semanal</title>
-      <link>http://example.org/es/bible/weekly/intro/</link>
+      <link>http://obedmr.com/es/bible/weekly/intro/</link>
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/es/bible/weekly/intro/</guid>
+      <guid>http://obedmr.com/es/bible/weekly/intro/</guid>
       <description>&lt;p&gt;Este es un inicio de algo que quiero emprender. Un mensaje semanal de lo que estoy
 aprendiendo al estar estudiando la palabra de Dios. El propósito es compartir lo
 que Dios me permite aprender cada día.&lt;/p&gt;</description>
@@ -24,20 +24,20 @@ que Dios me permite aprender cada día.&lt;/p&gt;</description>
     
     <item>
       <title>Tech talks</title>
-      <link>http://example.org/es/tech/tech-talks/</link>
+      <link>http://obedmr.com/es/tech/tech-talks/</link>
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/es/tech/tech-talks/</guid>
+      <guid>http://obedmr.com/es/tech/tech-talks/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;El propósito de esta página es para listar las pláticas tecnológicas que me ha tocado compartir en diferentes foros&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Vagrant: A fast way for building development environments</title>
-      <link>http://example.org/es/tech/es/vagrant/</link>
+      <link>http://obedmr.com/es/tech/es/vagrant/</link>
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/es/tech/es/vagrant/</guid>
+      <guid>http://obedmr.com/es/tech/es/vagrant/</guid>
       <description>This is the first time a come to Zacatecas. This time I&amp;rsquo;m presenting an overview of Vagrant and how it&amp;rsquo;s used for accelerating development.
 If you want to take a look on my presentation, feel free to take a look on it and comment. Vagrant</description>
     </item>

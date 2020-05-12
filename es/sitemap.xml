@@ -3,262 +3,262 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/es/bible/</loc>
+    <loc>http://obedmr.com/es/bible/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/bible/"
+                href="http://obedmr.com/bible/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/bible/"
+                href="http://obedmr.com/es/bible/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/tags/bible/</loc>
+    <loc>http://obedmr.com/es/tags/bible/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/bible/"
+                href="http://obedmr.com/tags/bible/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/bible/"
+                href="http://obedmr.com/es/tags/bible/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/categories/bible/</loc>
+    <loc>http://obedmr.com/es/categories/bible/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/bible/"
+                href="http://obedmr.com/categories/bible/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/bible/"
+                href="http://obedmr.com/es/categories/bible/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/categories/</loc>
+    <loc>http://obedmr.com/es/categories/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="http://obedmr.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/"
+                href="http://obedmr.com/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/bible/weekly/intro/</loc>
+    <loc>http://obedmr.com/es/bible/weekly/intro/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/bible/weekly/intro/"
+                href="http://obedmr.com/bible/weekly/intro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/bible/weekly/intro/"
+                href="http://obedmr.com/es/bible/weekly/intro/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/</loc>
+    <loc>http://obedmr.com/es/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="http://obedmr.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/"
+                href="http://obedmr.com/es/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/categories/spanish/</loc>
+    <loc>http://obedmr.com/es/categories/spanish/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/spanish/"
+                href="http://obedmr.com/categories/spanish/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/spanish/"
+                href="http://obedmr.com/es/categories/spanish/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/tags/</loc>
+    <loc>http://obedmr.com/es/tags/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="http://obedmr.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/"
+                href="http://obedmr.com/es/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/tags/timoteo/</loc>
+    <loc>http://obedmr.com/es/tags/timoteo/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/timoteo/"
+                href="http://obedmr.com/tags/timoteo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/timoteo/"
+                href="http://obedmr.com/es/tags/timoteo/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/tags/treasure/</loc>
+    <loc>http://obedmr.com/es/tags/treasure/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/treasure/"
+                href="http://obedmr.com/tags/treasure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/treasure/"
+                href="http://obedmr.com/es/tags/treasure/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/categories/weekly-treasure/</loc>
+    <loc>http://obedmr.com/es/categories/weekly-treasure/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/weekly-treasure/"
+                href="http://obedmr.com/categories/weekly-treasure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/weekly-treasure/"
+                href="http://obedmr.com/es/categories/weekly-treasure/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/tags/talks/</loc>
+    <loc>http://obedmr.com/es/tags/talks/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/talks/"
+                href="http://obedmr.com/tags/talks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/talks/"
+                href="http://obedmr.com/es/tags/talks/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/categories/talks/</loc>
+    <loc>http://obedmr.com/es/categories/talks/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/talks/"
+                href="http://obedmr.com/categories/talks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/talks/"
+                href="http://obedmr.com/es/categories/talks/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/tech/</loc>
+    <loc>http://obedmr.com/es/tech/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tech/"
+                href="http://obedmr.com/tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tech/"
+                href="http://obedmr.com/es/tech/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/tags/tech/</loc>
+    <loc>http://obedmr.com/es/tags/tech/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/tech/"
+                href="http://obedmr.com/tags/tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/tech/"
+                href="http://obedmr.com/es/tags/tech/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/categories/tech/</loc>
+    <loc>http://obedmr.com/es/categories/tech/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/tech/"
+                href="http://obedmr.com/categories/tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/tech/"
+                href="http://obedmr.com/es/categories/tech/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/tech/tech-talks/</loc>
+    <loc>http://obedmr.com/es/tech/tech-talks/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tech/tech-talks/"
+                href="http://obedmr.com/tech/tech-talks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tech/tech-talks/"
+                href="http://obedmr.com/es/tech/tech-talks/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/tech/es/vagrant/</loc>
+    <loc>http://obedmr.com/es/tech/es/vagrant/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
   </url>
   
