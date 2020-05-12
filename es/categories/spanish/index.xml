@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spanish on Obed N Munoz&#39;s Blog</title>
+    <link>http://example.org/es/categories/spanish/</link>
+    <description>Recent content in spanish on Obed N Munoz&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 11 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/es/categories/spanish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducción al Tesoro Semanal</title>
+      <link>http://example.org/es/bible/weekly/intro/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/bible/weekly/intro/</guid>
+      <description>&lt;p&gt;Este es un inicio de algo que quiero emprender. Un mensaje semanal de lo que estoy
+aprendiendo al estar estudiando la palabra de Dios. El propósito es compartir lo
+que Dios me permite aprender cada día.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

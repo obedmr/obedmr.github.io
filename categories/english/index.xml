@@ -1,32 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>english on Obed&#39;s Blog</title>
-    <link>http://obedmr.com/categories/english/</link>
-    <description>Recent content in english on Obed&#39;s Blog</description>
+    <title>english on Obed N Munoz&#39;s Blog</title>
+    <link>http://example.org/categories/english/</link>
+    <description>Recent content in english on Obed N Munoz&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://obedmr.com/categories/english/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/categories/english/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>We will not hide them!</title>
-      <link>http://obedmr.com/2019/06/we-will-not-hide-them/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://obedmr.com/2019/06/we-will-not-hide-them/</guid>
-      <description>&lt;p&gt;&lt;em&gt;We will not hide them from their children, Telling to the generation to come the praises of the Lord,
-An His strength and His wonderful works that He has done. Psalm 78:4&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Who has made man&#39;s mouth?</title>
-      <link>http://obedmr.com/2019/02/who-has-made-mans-mouth/</link>
+      <link>http://example.org/bible/weekly/en/who-has-made-man-s-mouth/</link>
       <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/2019/02/who-has-made-mans-mouth/</guid>
+      <guid>http://example.org/bible/weekly/en/who-has-made-man-s-mouth/</guid>
       <description>&lt;p&gt;It has been a while that I promised I&amp;rsquo;d submit a daily bible treasure. This is a time
 for new resolutions and to make it happen. I&amp;rsquo;m planning to share some extracts from my
 daily bible reading. I trying my best to post something at least once a week. I wish that
@@ -35,10 +25,10 @@ The Lord bless you with all this.&lt;/p&gt;</description>
     
     <item>
       <title>My First Official post</title>
-      <link>http://obedmr.com/2017/01/my-first-official-post/</link>
+      <link>http://example.org/2017/0122_myfirstpost/</link>
       <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/2017/01/my-first-official-post/</guid>
+      <guid>http://example.org/2017/0122_myfirstpost/</guid>
       <description>&lt;p&gt;Some folks may say that this is crazy but let&amp;rsquo;s do it. I think we learn so much from other and I&amp;rsquo;d like to share some thoughts and experiences.&lt;/p&gt;</description>
     </item>
     

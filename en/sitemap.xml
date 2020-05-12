@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/bible/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/bible/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/bible/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/bible/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/tags/bible/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/bible/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/bible/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/categories/bible/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/bible/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/treasure/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/tags/treasure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/treasure/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/bible/weekly/en/we-will-not-hide-them/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/weekly-treasure/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/categories/weekly-treasure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/weekly-treasure/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/english/</loc>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/bible/weekly/en/who-has-made-man-s-mouth/</loc>
+    <lastmod>2019-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/bible/weekly/intro/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/bible/weekly/intro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/bible/weekly/intro/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/spanish/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/categories/spanish/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/spanish/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/timoteo/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/tags/timoteo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/timoteo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/talks/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/tags/talks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/talks/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/talks/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/categories/talks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/talks/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tech/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tech/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/tags/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/tech/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/tech/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/categories/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/tech/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/tech-talks/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/tech/tech-talks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tech/tech-talks/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/en/verbacious-101/</loc>
+    <lastmod>2017-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/en/containers-raise/</loc>
+    <lastmod>2017-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/en/golang-python-c-who-wins/</loc>
+    <lastmod>2017-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/2017/</loc>
+    <lastmod>2017-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/</loc>
+    <lastmod>2017-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/general/</loc>
+    <lastmod>2017-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/0122_myfirstpost/</loc>
+    <lastmod>2017-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/posts/</loc>
+    <lastmod>2017-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/posts/</loc>
+    <lastmod>2017-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/en/bigdata-in-the-cloud/</loc>
+    <lastmod>2016-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/en/openstack-introduction/</loc>
+    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/tech-talks/</loc>
+    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tech/en/vagrant/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

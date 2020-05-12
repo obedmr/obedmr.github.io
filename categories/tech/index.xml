@@ -1,44 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on Obed&#39;s Blog</title>
-    <link>http://obedmr.com/categories/tech/</link>
-    <description>Recent content in Tech on Obed&#39;s Blog</description>
+    <title>tech on Obed N Munoz&#39;s Blog</title>
+    <link>http://example.org/categories/tech/</link>
+    <description>Recent content in tech on Obed N Munoz&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 11 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://obedmr.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tech talks</title>
-      <link>http://obedmr.com/2017/06/tech-talks/</link>
+      <link>http://example.org/tech/tech-talks/</link>
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/2017/06/tech-talks/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;This page is meant for listing the tech talks I have been sharing on different forums.
-&lt;/p&gt;</description>
+      <guid>http://example.org/tech/tech-talks/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;This page is meant for listing the tech talks I have been sharing on different forums.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Verbacious 101</title>
-      <link>http://obedmr.com/2017/06/verbacious-101/</link>
+      <link>http://example.org/tech/en/verbacious-101/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/2017/06/verbacious-101/</guid>
+      <guid>http://example.org/tech/en/verbacious-101/</guid>
       <description>This time I have the opportunity to share some of the lessons learned on my career. I went to Zacatecas city for the 2017 CISOL which is an Open Source conference that gathers students and professionals from all the country for sharing Open Source related projects.
 I’ve been invited to this event since 2 years ago, on last conferences I usually shared very technical talks about Open Source cloud project like OpenStack, CIAO and Docker.</description>
     </item>
     
     <item>
       <title>Containers raise, why OpenStack needs Kubernetes</title>
-      <link>http://obedmr.com/2017/05/containers-raise-why-openstack-needs-kubernetes/</link>
+      <link>http://example.org/tech/en/containers-raise/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/2017/05/containers-raise-why-openstack-needs-kubernetes/</guid>
+      <guid>http://example.org/tech/en/containers-raise/</guid>
       <description>As member of the OpenStack GDL community this was the first time I present a topic there.
 I talked about the Containers trending technologies and they&amp;rsquo;re affecting the Cloud ecosystem, in this case OpenStack. How OpenStack is driving the efforts for delivering Container as a Service and also deployment of OpenStack on top of Containers.
 If you want to take a look on my presentation, feel free to take a look on it and comment.</description>
@@ -46,41 +44,31 @@ If you want to take a look on my presentation, feel free to take a look on it an
     
     <item>
       <title>Golang, Python or C/C&#43;&#43;, who wins?</title>
-      <link>http://obedmr.com/golang-python-c-who-wins/</link>
+      <link>http://example.org/tech/en/golang-python-c-who-wins/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/golang-python-c-who-wins/</guid>
+      <guid>http://example.org/tech/en/golang-python-c-who-wins/</guid>
       <description>This time I had an opportunity for presenting at Ameca, Jalisco. I presented at the CUVALLES university.
 My talk was about some of the key features of Golang, Python and C/C++ programming languages. But, this was not the main reason I choose this topic. The idea is to explain the process for choosing a good programming language for your project. It&amp;rsquo;s not about the language, it&amp;rsquo;s about the problem you want to solve and which are the features a programming language can offer you to solve the problem.</description>
     </item>
     
     <item>
       <title>Big Data in the Cloud? Yes, you can do it in OpenStack</title>
-      <link>http://obedmr.com/2016/08/big-data-in-the-cloud-yes-you-can-do-it-in-openstack/</link>
+      <link>http://example.org/tech/en/bigdata-in-the-cloud/</link>
       <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/2016/08/big-data-in-the-cloud-yes-you-can-do-it-in-openstack/</guid>
+      <guid>http://example.org/tech/en/bigdata-in-the-cloud/</guid>
       <description>I had the opportunity to share some of the Big Data approaches that OpenStack is offering with the Sahara project. With Sahara, you can deploy Hadoop and Spark clusters inside OpenStack infrastructure.
 The forum I presented this was at the Datalab Community
 If you want to take a look on my presentation, feel free to take a look on it and comment. Big Data in the Cloud? Yes, you can do it in OpenStack</description>
     </item>
     
     <item>
-      <title>OpenStack Introduction</title>
-      <link>http://obedmr.com/2015/05/openstack-introduction/</link>
-      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://obedmr.com/2015/05/openstack-introduction/</guid>
-      <description>This is talk I gave a Zacatecas City about OpenStack. Basically, this is an introduction that explains the origins of Cloud computing, some key cloud concepts and how OpenStack delivers Infrastructure as a Service.
-If you want to take a look on my presentation, feel free to take a look on it and comment. OpenStack Introduction</description>
-    </item>
-    
-    <item>
       <title>Vagrant: A fast way for building development environments</title>
-      <link>http://obedmr.com/2014/11/vagrant-a-fast-way-for-building-development-environments/</link>
+      <link>http://example.org/tech/en/vagrant/</link>
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/2014/11/vagrant-a-fast-way-for-building-development-environments/</guid>
+      <guid>http://example.org/tech/en/vagrant/</guid>
       <description>This is the first time a come to Zacatecas. This time I&amp;rsquo;m presenting an overview of Vagrant and how it&amp;rsquo;s used for accelerating development.
 If you want to take a look on my presentation, feel free to take a look on it and comment. Vagrant</description>
     </item>
