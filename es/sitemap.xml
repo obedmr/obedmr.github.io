@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://obedmr.com/es/bible/weekly/es/5-claves-para-una-vida-bendecida/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://obedmr.com/es/bible/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +24,7 @@
   
   <url>
     <loc>http://obedmr.com/es/tags/bible/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,7 +39,7 @@
   
   <url>
     <loc>http://obedmr.com/es/categories/bible/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,7 +54,7 @@
   
   <url>
     <loc>http://obedmr.com/es/categories/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,6 +64,71 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://obedmr.com/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://obedmr.com/es/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://obedmr.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://obedmr.com/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://obedmr.com/es/tags/spanish/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://obedmr.com/es/tags/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://obedmr.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://obedmr.com/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://obedmr.com/es/tags/treasure/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://obedmr.com/tags/treasure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://obedmr.com/es/tags/treasure/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://obedmr.com/es/categories/weekly-treasure/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://obedmr.com/categories/weekly-treasure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://obedmr.com/es/categories/weekly-treasure/"
                 />
   </url>
   
@@ -78,21 +148,6 @@
   </url>
   
   <url>
-    <loc>http://obedmr.com/es/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://obedmr.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://obedmr.com/es/"
-                />
-  </url>
-  
-  <url>
     <loc>http://obedmr.com/es/categories/spanish/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -108,21 +163,6 @@
   </url>
   
   <url>
-    <loc>http://obedmr.com/es/tags/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://obedmr.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://obedmr.com/es/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>http://obedmr.com/es/tags/timoteo/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -134,36 +174,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://obedmr.com/es/tags/timoteo/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://obedmr.com/es/tags/treasure/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://obedmr.com/tags/treasure/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://obedmr.com/es/tags/treasure/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://obedmr.com/es/categories/weekly-treasure/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://obedmr.com/categories/weekly-treasure/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://obedmr.com/es/categories/weekly-treasure/"
                 />
   </url>
   

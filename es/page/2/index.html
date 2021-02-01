@@ -2,16 +2,16 @@
 <html lang="es">
   <head>
   <meta charset="utf-8">
-<title>Tech - Obed N Munoz&#39;s Blog</title>
+<title>Obed N Munoz&#39;s Blog</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 <meta name="generator" content="Hugo 0.81.0-DEV" /><meta property="og:site_name" content="Obed N Munoz&#39;s Blog">
-  <meta property="og:title" content="Tech">
+  <meta property="og:title" content="Obed N Munoz&#39;s Blog">
   <meta property="og:description" content="Obed N Munoz Personal blog.">
   <meta property="description" content="Obed N Munoz Personal blog.">
-  <meta property="og:url" content="http://obedmr.com/es/tech/">
-  <meta property="og:type" content="article">
+  <meta property="og:url" content="http://obedmr.com/es/">
+  <meta property="og:type" content="website">
   
     <meta property="og:image" content="http://obedmr.com/img/main/me.jpeg">
   
@@ -23,12 +23,48 @@
   <body>
     
 
+  <div id="theme-message" style="background-color:#3c3b3b;color:#f4f4f4;margin:auto auto;padding:.25em 2em;width:75%;">
+    <p style="text-align:center;">This message, related to the development of the theme, only displays on the
+      <code>localhost</code> homepage to notify you of any important theme changes.</p>
+      <hr>
+      <h5 style="color:#f4f4f4;text-align:center;"><i class="fas fa-exclamation-triangle"></i>Version 2.0.0 - July 20, 2020<i class="fas fa-exclamation-triangle"></i></h5>
+    <p>Below are the following changes that <em>could</em> be breaking changes for your site. For more details on any change, please refer to <a href="https://github.com/pacollins/hugo-future-imperfect-slim/pull/154">PR #154</a>.</p>
+<p>The major breaking change is:</p>
+<ol>
+<li>Users that have front matter that utilize <code>images</code> (backwards compatibility for <code>featured</code> and associated parameters still remains) <em>will</em> need to adjust from <code>[images]=&quot;SRC&quot;</code> to the new format.</li>
+</ol>
+<pre><code>[[images]]
+    src = &quot;&quot; // Link to image
+    alt = &quot;&quot; // Alt text for image
+    stretch = // Optional: See screenshots for referenced values and outcomes
+</code></pre><p>If you utilize any of the following, there <em>might</em> be a breaking:</p>
+<ol>
+<li>User custom templates <em>may</em> require adjustment.</li>
+<li>User custom i18n languages, or custom templates referencing i18n translations <em>may</em> require adjustment.</li>
+<li>User custom template for comments <em>will</em> require adjustment <em>if</em> it uses the theme&rsquo;s CSS and/or JS.</li>
+<li>User custom CSS <em>may</em> need to adjust due to a variety of class name changes and specificity changes.</li>
+</ol>
+<p>While I realize this is inconvenient, I hope that it is worth it to you in the long run. Thanks for using the theme, and feel free to submit issues as needed.</p>
+
+    <div style="text-align:center;">
+      <button onclick="removeBox()" class="button" style="color:#f4f4f4;margin-bottom:1em;">Close Notification Until Next Update</button>
+    </div>
+    <script>
+      if (window.location.href.indexOf('localhost:') < 1 || window.localStorage.getItem('HFIS-version') == '2.0.0') {
+        document.getElementsByTagName("body")[0].removeChild(document.getElementById("theme-message"));
+      }
+      function removeBox() {
+        window.localStorage.setItem('HFIS-version', '2.0.0');
+        document.getElementsByTagName("body")[0].removeChild(document.getElementById("theme-message"));
+      }
+    </script>
+  </div>
 <header id="site-header">
   <nav id="site-nav">
     <h1 class="nav-title">
       <a href="/es/" class="nav">
         
-          Tech
+          Obed N Munoz's Blog
         
       </a>
     </h1>
@@ -81,7 +117,7 @@
   <menu id="lang-menu" class="flyout-menu menu">
   <a href="#" lang="es" class="nav link active">Español (es)</a>
   
-      <a href="http://obedmr.com/tech/" lang="en" class="nav link">English (en)</a>
+      <a href="http://obedmr.com/" lang="en" class="nav link">English (en)</a>
     
   
 </menu>
@@ -112,7 +148,7 @@
     <footer>
       <ul class="socnet-icons">
         
-    <li><a href="/es/tech/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
+    <li><a href="/es/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
 
 
         <li><a href="//github.com/obedmr" target="_blank" rel="noopener" title="GitHub" class="fab fa-github"></a></li>
@@ -170,57 +206,6 @@
   <header>
   <div class="title">
     
-      <h2><a href="/es/tech/tech-talks/">Tech talks</a></h2>
-    
-    
-  </div>
-  <div class="meta">
-    <time datetime="2017-06-11 00:00:00 &#43;0000 UTC">11 de Enero, 2017</time>
-    
-    <p>Lectura De 1 Minuto</p>
-  </div>
-</header>
-
-  <div class="content">
-    
-    
-    <p>El propósito de esta página es para listar las pláticas tecnológicas que me ha tocado compartir en diferentes foros</p>
-  </div>
-  <footer>
-    <a href="/es/tech/tech-talks/" class="button big">Lee Mas</a>
-    <div class="stats">
-  
-    <ul class="categories">
-      
-        
-          <li><a class="article-terms-link" href="/es/categories/talks/">talks</a></li>
-        
-          <li><a class="article-terms-link" href="/es/categories/tech/">tech</a></li>
-        
-      
-    </ul>
-  
-  
-    <ul class="tags">
-      
-        
-          <li><a class="article-terms-link" href="/es/tags/talks/">talks</a></li>
-        
-          <li><a class="article-terms-link" href="/es/tags/tech/">tech</a></li>
-        
-      
-    </ul>
-  
-</div>
-
-  </footer>
-</article>
-
-  
-    <article class="post">
-  <header>
-  <div class="title">
-    
       <h2><a href="/es/tech/es/vagrant/">Vagrant: A fast way for building development environments</a></h2>
     
     
@@ -270,6 +255,8 @@ it&rsquo;s used for accelerating development.</p>
 
   
   <div class="pagination">
+    
+      <a href="/es/" class="button left"><span>Página Anterior</span></a>
     
     
   </div>
@@ -366,7 +353,7 @@ it&rsquo;s used for accelerating development.</p>
   
       <ul class="socnet-icons">
         
-    <li><a href="/es/tech/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
+    <li><a href="/es/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fas fa-rss"></a></li>
 
 
         <li><a href="//github.com/obedmr" target="_blank" rel="noopener" title="GitHub" class="fab fa-github"></a></li>
