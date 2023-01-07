@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://obedmr.com/es/bible/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://obedmr.com/bible/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://obedmr.com/es/bible/"
-                />
-  </url>
-  
   <url>
     <loc>http://obedmr.com/es/tags/bible/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
@@ -30,9 +14,7 @@
                 hreflang="es"
                 href="http://obedmr.com/es/tags/bible/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/categories/bible/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -45,9 +27,20 @@
                 hreflang="es"
                 href="http://obedmr.com/es/categories/bible/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://obedmr.com/es/bible/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://obedmr.com/bible/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://obedmr.com/es/bible/"
+                />
+  </url><url>
     <loc>http://obedmr.com/es/categories/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="es"
                 href="http://obedmr.com/es/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,19 +66,13 @@
                 hreflang="es"
                 href="http://obedmr.com/es/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/bible/weekly/es/pidiendo-la-peticion-correcta/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/tags/spanish/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/tags/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -100,9 +85,7 @@
                 hreflang="es"
                 href="http://obedmr.com/es/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/tags/treasure/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -115,9 +98,7 @@
                 hreflang="es"
                 href="http://obedmr.com/es/tags/treasure/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/categories/weekly-treasure/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -130,14 +111,10 @@
                 hreflang="es"
                 href="http://obedmr.com/es/categories/weekly-treasure/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/bible/weekly/es/5-claves-para-una-vida-bendecida/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/bible/weekly/intro/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -150,9 +127,7 @@
                 hreflang="es"
                 href="http://obedmr.com/es/bible/weekly/intro/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/categories/spanish/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -165,9 +140,7 @@
                 hreflang="es"
                 href="http://obedmr.com/es/categories/spanish/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/tags/timoteo/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -180,9 +153,7 @@
                 hreflang="es"
                 href="http://obedmr.com/es/tags/timoteo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/tags/talks/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -195,9 +166,7 @@
                 hreflang="es"
                 href="http://obedmr.com/es/tags/talks/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/categories/talks/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -210,24 +179,7 @@
                 hreflang="es"
                 href="http://obedmr.com/es/categories/talks/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://obedmr.com/es/tech/</loc>
-    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://obedmr.com/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://obedmr.com/es/tech/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/tags/tech/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -240,9 +192,7 @@
                 hreflang="es"
                 href="http://obedmr.com/es/tags/tech/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/categories/tech/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -255,9 +205,20 @@
                 hreflang="es"
                 href="http://obedmr.com/es/categories/tech/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://obedmr.com/es/tech/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://obedmr.com/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://obedmr.com/es/tech/"
+                />
+  </url><url>
     <loc>http://obedmr.com/es/tech/tech-talks/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -270,11 +231,8 @@
                 hreflang="es"
                 href="http://obedmr.com/es/tech/tech-talks/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://obedmr.com/es/tech/es/vagrant/</loc>
     <lastmod>2014-11-06T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>
