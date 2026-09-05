@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Book and Code Brackets</title>
+  <desc id="desc">An open book framed by code brackets.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" x2="440" y1="48" y2="464" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07182f"/>
+      <stop offset="1" stop-color="#0f4c81"/>
+    </linearGradient>
+    <linearGradient id="page" x1="166" x2="346" y1="160" y2="356" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#dcecff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <path d="M178 156 92 256l86 100" fill="none" stroke="#42d7ff" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m334 156 86 100-86 100" fill="none" stroke="#42d7ff" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 184c-36-25-78-31-126-17v194c48-14 90-8 126 17 36-25 78-31 126-17V167c-48-14-90-8-126 17Z" fill="url(#page)"/>
+  <path d="M256 184v194" fill="none" stroke="#0f4c81" stroke-width="16" stroke-linecap="round"/>
+  <path d="M150 213c30-7 57-3 81 10M150 255c30-7 57-3 81 10M281 223c24-13 51-17 81-10M281 265c24-13 51-17 81-10" fill="none" stroke="#5a82a8" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="256" cy="378" r="13" fill="#42d7ff"/>
+</svg>
