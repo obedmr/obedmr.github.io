@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vagrant on Obed N Munoz</title>
+    <link>https://obedmr.com/tags/vagrant/</link>
+    <description>Recent content in Vagrant on Obed N Munoz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Obed N Munoz</copyright>
+    <lastBuildDate>Thu, 06 Nov 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://obedmr.com/tags/vagrant/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vagrant: A Fast Way for Building Development Environments</title>
+      <link>https://obedmr.com/tech/vagrant/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tech/vagrant/</guid>
+      <description>A short note from a talk about Vagrant and how it can accelerate development environment setup.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

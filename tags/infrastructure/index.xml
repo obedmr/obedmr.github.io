@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastructure on Obed N Munoz</title>
+    <link>https://obedmr.com/tags/infrastructure/</link>
+    <description>Recent content in Infrastructure on Obed N Munoz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Obed N Munoz</copyright>
+    <lastBuildDate>Fri, 22 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://obedmr.com/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Introduction</title>
+      <link>https://obedmr.com/tech/openstack-introduction/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tech/openstack-introduction/</guid>
+      <description>An introductory talk about cloud computing origins, core cloud concepts, and OpenStack as infrastructure as a service.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

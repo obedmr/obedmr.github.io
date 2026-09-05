@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubernetes on Obed N Munoz</title>
+    <link>https://obedmr.com/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on Obed N Munoz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Obed N Munoz</copyright>
+    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://obedmr.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Containers Raise: Why OpenStack Needs Kubernetes</title>
+      <link>https://obedmr.com/tech/containers-openstack-kubernetes/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tech/containers-openstack-kubernetes/</guid>
+      <description>A talk about the rise of containers, Kubernetes, and how OpenStack responds to containerized cloud infrastructure.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Psalms</title>
+      <link>https://obedmr.com/tags/psalms/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/psalms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Treasure</title>
       <link>https://obedmr.com/tags/treasure/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
@@ -30,11 +40,21 @@
     </item>
     
     <item>
-      <title>Timoteo</title>
-      <link>https://obedmr.com/tags/timoteo/</link>
+      <title>Exodus</title>
+      <link>https://obedmr.com/tags/exodus/</link>
+      <pubDate>Sun, 03 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/exodus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Timothy</title>
+      <link>https://obedmr.com/tags/timothy/</link>
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obedmr.com/tags/timoteo/</guid>
+      <guid>https://obedmr.com/tags/timothy/</guid>
       <description></description>
       
     </item>
@@ -60,11 +80,191 @@
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://obedmr.com/tags/posts/</link>
+      <title>Career</title>
+      <link>https://obedmr.com/tags/career/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/career/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>https://obedmr.com/tags/communication/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/communication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open-Source</title>
+      <link>https://obedmr.com/tags/open-source/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/open-source/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://obedmr.com/tags/cloud/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/cloud/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Containers</title>
+      <link>https://obedmr.com/tags/containers/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/containers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://obedmr.com/tags/kubernetes/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/kubernetes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Openstack</title>
+      <link>https://obedmr.com/tags/openstack/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/openstack/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://obedmr.com/tags/c/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://obedmr.com/tags/golang/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/golang/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://obedmr.com/tags/programming/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://obedmr.com/tags/python/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://obedmr.com/tags/learning/</link>
       <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obedmr.com/tags/posts/</guid>
+      <guid>https://obedmr.com/tags/learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://obedmr.com/tags/writing/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/writing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Big-Data</title>
+      <link>https://obedmr.com/tags/big-data/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/big-data/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hadoop</title>
+      <link>https://obedmr.com/tags/hadoop/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/hadoop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spark</title>
+      <link>https://obedmr.com/tags/spark/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/spark/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://obedmr.com/tags/infrastructure/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/infrastructure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://obedmr.com/tags/development/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vagrant</title>
+      <link>https://obedmr.com/tags/vagrant/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tags/vagrant/</guid>
       <description></description>
       
     </item>

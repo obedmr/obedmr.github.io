@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on Obed N Munoz</title>
+    <title>Tecnología on Obed N Munoz</title>
     <link>https://obedmr.com/es/tech/</link>
-    <description>Recent content in Tech on Obed N Munoz</description>
+    <description>Recent content in Tecnología on Obed N Munoz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Obed N Munoz</copyright>
     <lastBuildDate>Sun, 11 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://obedmr.com/es/tech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Tech talks</title>
+      <title>Pláticas Tecnológicas</title>
       <link>https://obedmr.com/es/tech/tech-talks/</link>
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/es/tech/tech-talks/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;El propósito de esta página es para listar las pláticas tecnológicas que me ha tocado compartir en diferentes foros&lt;/p&gt;</description>
+      <description>&lt;p&gt;El propósito de esta página es para listar las pláticas tecnológicas que me ha tocado compartir en diferentes foros&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Vagrant: A fast way for building development environments</title>
-      <link>https://obedmr.com/es/tech/es/vagrant/</link>
+      <title>Vagrant: Una Forma Rápida de Crear Entornos de Desarrollo</title>
+      <link>https://obedmr.com/es/tech/vagrant/</link>
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://obedmr.com/es/tech/es/vagrant/</guid>
-      <description>&lt;p&gt;This is the first time a come to Zacatecas. This time I&amp;rsquo;m presenting an overview of Vagrant and how&#xA;it&amp;rsquo;s used for accelerating development.&lt;/p&gt;</description>
+      <guid>https://obedmr.com/es/tech/vagrant/</guid>
+      <description>Una nota breve de una plática sobre Vagrant y cómo puede acelerar la preparación de entornos de desarrollo.</description>
       
     </item>
     

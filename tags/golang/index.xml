@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Obed N Munoz</title>
+    <link>https://obedmr.com/tags/golang/</link>
+    <description>Recent content in Golang on Obed N Munoz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Obed N Munoz</copyright>
+    <lastBuildDate>Mon, 08 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://obedmr.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Golang, Python or C/C&#43;&#43;: Who Wins?</title>
+      <link>https://obedmr.com/tech/golang-python-c/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/tech/golang-python-c/</guid>
+      <description>A talk about Golang, Python, and C/C++, framed around choosing a language by understanding the problem first.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

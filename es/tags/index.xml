@@ -20,11 +20,11 @@
     </item>
     
     <item>
-      <title>Spanish</title>
-      <link>https://obedmr.com/es/tags/spanish/</link>
+      <title>Oracion</title>
+      <link>https://obedmr.com/es/tags/oracion/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://obedmr.com/es/tags/spanish/</guid>
+      <guid>https://obedmr.com/es/tags/oracion/</guid>
       <description></description>
       
     </item>
@@ -35,6 +35,16 @@
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/es/tags/treasure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Proverbios</title>
+      <link>https://obedmr.com/es/tags/proverbios/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/es/tags/proverbios/</guid>
       <description></description>
       
     </item>
@@ -65,6 +75,26 @@
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/es/tags/tech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Desarrollo</title>
+      <link>https://obedmr.com/es/tags/desarrollo/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/es/tags/desarrollo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vagrant</title>
+      <link>https://obedmr.com/es/tags/vagrant/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/es/tags/vagrant/</guid>
       <description></description>
       
     </item>
