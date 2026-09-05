@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tech on Obed N Munoz&#39;s Blog</title>
+    <title>Tech on Obed N Munoz</title>
     <link>https://obedmr.com/categories/tech/</link>
-    <description>Recent content in tech on Obed N Munoz&#39;s Blog</description>
+    <description>Recent content in Tech on Obed N Munoz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2026 Obed N Munoz</copyright>
     <lastBuildDate>Sun, 11 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://obedmr.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Tech talks</title>
       <link>https://obedmr.com/tech/tech-talks/</link>
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/tech/tech-talks/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;This page is meant for listing the tech talks I have been sharing on different forums.&lt;/p&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;This page is meant for listing the tech talks I have been sharing on different forums.&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -23,8 +25,8 @@
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/tech/en/verbacious-101/</guid>
-      <description>This time I have the opportunity to share some of the lessons learned on my career. I went to Zacatecas city for the 2017 CISOL which is an Open Source conference that gathers students and professionals from all the country for sharing Open Source related projects.
-I’ve been invited to this event since 2 years ago, on last conferences I usually shared very technical talks about Open Source cloud project like OpenStack, CIAO and Docker.</description>
+      <description>&lt;p&gt;This time I have the opportunity to share some of the lessons learned on my career.&#xA;I went to Zacatecas city for the &lt;a href=&#34;http://www.cozcyt.gob.mx/cisol/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;2017 CISOL&lt;/a&gt;&#xA;which is an Open Source conference that gathers students and professionals from&#xA;all the country for sharing Open Source related projects.&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -33,9 +35,8 @@ I’ve been invited to this event since 2 years ago, on last conferences I usual
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/tech/en/containers-raise/</guid>
-      <description>As member of the OpenStack GDL community this was the first time I present a topic there.
-I talked about the Containers trending technologies and they&amp;rsquo;re affecting the Cloud ecosystem, in this case OpenStack. How OpenStack is driving the efforts for delivering Container as a Service and also deployment of OpenStack on top of Containers.
-If you want to take a look on my presentation, feel free to take a look on it and comment.</description>
+      <description>&lt;p&gt;As member of the &lt;a href=&#34;https://www.facebook.com/groups/openstackgdl/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;OpenStack GDL&lt;/a&gt; community&#xA;this was the first time I present a topic there.&lt;/p&gt;&#xA;&lt;p&gt;I talked about the Containers trending technologies and they&amp;rsquo;re affecting the Cloud ecosystem, in this&#xA;case OpenStack. How OpenStack is driving the efforts for delivering Container as a Service and also&#xA;deployment of OpenStack on top of Containers.&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -44,8 +45,8 @@ If you want to take a look on my presentation, feel free to take a look on it an
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/tech/en/golang-python-c-who-wins/</guid>
-      <description>This time I had an opportunity for presenting at Ameca, Jalisco. I presented at the CUVALLES university.
-My talk was about some of the key features of Golang, Python and C/C++ programming languages. But, this was not the main reason I choose this topic. The idea is to explain the process for choosing a good programming language for your project. It&amp;rsquo;s not about the language, it&amp;rsquo;s about the problem you want to solve and which are the features a programming language can offer you to solve the problem.</description>
+      <description>&lt;p&gt;This time I had an opportunity for presenting at Ameca, Jalisco. I presented at the &lt;a href=&#34;http://www.valles.udg.mx/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;CUVALLES&lt;/a&gt;&#xA;university.&lt;/p&gt;&#xA;&lt;p&gt;My talk was about some of the key features of Golang, Python and C/C++ programming languages. But, this was&#xA;not the main reason I choose this topic. The idea is to explain the process for choosing a good programming&#xA;language for your project. It&amp;rsquo;s not about the language, it&amp;rsquo;s about the problem you want to solve and which are&#xA;the features a programming language can offer you to solve the problem.&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -54,9 +55,8 @@ My talk was about some of the key features of Golang, Python and C/C++ programmi
       <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/tech/en/bigdata-in-the-cloud/</guid>
-      <description>I had the opportunity to share some of the Big Data approaches that OpenStack is offering with the Sahara project. With Sahara, you can deploy Hadoop and Spark clusters inside OpenStack infrastructure.
-The forum I presented this was at the Datalab Community
-If you want to take a look on my presentation, feel free to take a look on it and comment. Big Data in the Cloud? Yes, you can do it in OpenStack</description>
+      <description>&lt;p&gt;I had the opportunity to share some of the Big Data approaches that OpenStack is offering with the&#xA;Sahara project. With Sahara, you can deploy Hadoop and Spark clusters inside OpenStack infrastructure.&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -65,8 +65,8 @@ If you want to take a look on my presentation, feel free to take a look on it an
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/tech/en/vagrant/</guid>
-      <description>This is the first time a come to Zacatecas. This time I&amp;rsquo;m presenting an overview of Vagrant and how it&amp;rsquo;s used for accelerating development.
-If you want to take a look on my presentation, feel free to take a look on it and comment. Vagrant</description>
+      <description>&lt;p&gt;This is the first time a come to Zacatecas. This time I&amp;rsquo;m presenting an overview of Vagrant and how&#xA;it&amp;rsquo;s used for accelerating development.&lt;/p&gt;</description>
+      
     </item>
     
   </channel>

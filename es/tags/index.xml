@@ -1,37 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Obed N Munoz&#39;s Blog</title>
+    <title>Tags on Obed N Munoz</title>
     <link>https://obedmr.com/es/tags/</link>
-    <description>Recent content in Tags on Obed N Munoz&#39;s Blog</description>
+    <description>Recent content in Tags on Obed N Munoz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
+    <copyright>© 2026 Obed N Munoz</copyright>
     <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://obedmr.com/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>bible</title>
+      <title>Bible</title>
       <link>https://obedmr.com/es/tags/bible/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/es/tags/bible/</guid>
       <description></description>
+      
     </item>
     
     <item>
-      <title>spanish</title>
+      <title>Spanish</title>
       <link>https://obedmr.com/es/tags/spanish/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/es/tags/spanish/</guid>
       <description></description>
+      
     </item>
     
     <item>
-      <title>treasure</title>
+      <title>Treasure</title>
       <link>https://obedmr.com/es/tags/treasure/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/es/tags/treasure/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -41,24 +46,27 @@
       
       <guid>https://obedmr.com/es/tags/timoteo/</guid>
       <description></description>
+      
     </item>
     
     <item>
-      <title>talks</title>
+      <title>Talks</title>
       <link>https://obedmr.com/es/tags/talks/</link>
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/es/tags/talks/</guid>
       <description></description>
+      
     </item>
     
     <item>
-      <title>tech</title>
+      <title>Tech</title>
       <link>https://obedmr.com/es/tags/tech/</link>
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/es/tags/tech/</guid>
       <description></description>
+      
     </item>
     
   </channel>

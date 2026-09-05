@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>spanish on Obed N Munoz&#39;s Blog</title>
+    <title>Spanish on Obed N Munoz</title>
     <link>https://obedmr.com/categories/spanish/</link>
-    <description>Recent content in spanish on Obed N Munoz&#39;s Blog</description>
+    <description>Recent content in Spanish on Obed N Munoz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2026 Obed N Munoz</copyright>
     <lastBuildDate>Sun, 11 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://obedmr.com/categories/spanish/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Introduction to the Weekly Treasure</title>
       <link>https://obedmr.com/bible/weekly/intro/</link>
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/bible/weekly/intro/</guid>
-      <description>Translating &amp;hellip;
-Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. Timothy 2:15 (KJV)</description>
+      <description>&lt;p&gt;Translating &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.&lt;/em&gt;&#xA;&lt;strong&gt;Timothy 2:15 (KJV)&lt;/strong&gt;&lt;/p&gt;</description>
+      
     </item>
     
   </channel>

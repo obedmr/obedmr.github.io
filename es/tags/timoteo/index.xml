@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Timoteo on Obed N Munoz&#39;s Blog</title>
+    <title>Timoteo on Obed N Munoz</title>
     <link>https://obedmr.com/es/tags/timoteo/</link>
-    <description>Recent content in Timoteo on Obed N Munoz&#39;s Blog</description>
+    <description>Recent content in Timoteo on Obed N Munoz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
+    <copyright>© 2026 Obed N Munoz</copyright>
     <lastBuildDate>Sun, 11 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://obedmr.com/es/tags/timoteo/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Introducción al Tesoro Semanal</title>
       <link>https://obedmr.com/es/bible/weekly/intro/</link>
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obedmr.com/es/bible/weekly/intro/</guid>
-      <description>&lt;p&gt;Este es un inicio de algo que quiero emprender. Un mensaje semanal de lo que estoy
-aprendiendo al estar estudiando la palabra de Dios. El propósito es compartir lo
-que Dios me permite aprender cada día.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Este es un inicio de algo que quiero emprender. Un mensaje semanal de lo que estoy&#xA;aprendiendo al estar estudiando la palabra de Dios. El propósito es compartir lo&#xA;que Dios me permite aprender cada día.&lt;/p&gt;</description>
+      
     </item>
     
   </channel>

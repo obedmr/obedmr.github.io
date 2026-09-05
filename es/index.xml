@@ -1,55 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Obed N Munoz&#39;s Blog</title>
-    <link>http://obedmr.com/es/</link>
-    <description>Recent content on Obed N Munoz&#39;s Blog</description>
+    <title>Obed N Munoz</title>
+    <link>https://obedmr.com/es/</link>
+    <description>Recent content on Obed N Munoz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://obedmr.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Obed N Munoz</copyright>
+    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://obedmr.com/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pidiendo la petición correcta</title>
+      <link>https://obedmr.com/es/bible/weekly/es/pidiendo-la-peticion-correcta/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://obedmr.com/es/bible/weekly/es/pidiendo-la-peticion-correcta/</guid>
+      <description>&lt;p&gt;¿Cómo pedir para recibir? ¿por qué cuando pido no recibo? ¿que me&#xA;falta para que mi petición sea escuchada? y otras cuestiones son las&#xA;que han surgido cuando venimos a Dios en oración y que muchas veces&#xA;son motivo de desaliento al no recibir lo pedido. La Palabra de Dios&#xA;nos enseña cómo pedir y también cómo no pedir. Consideremos juntos la&#xA;historia de Salomón y sus inicios como rey de Israel en 1 Reyes&#xA;4:29-34 y de cómo este joven rey pidió de manera correcta y Dios&#xA;contestó aún mas allá de su deseo.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>5 Claves para una vida bendecida</title>
-      <link>http://obedmr.com/es/bible/weekly/es/5-claves-para-una-vida-bendecida/</link>
+      <link>https://obedmr.com/es/bible/weekly/es/5-claves-para-una-vida-bendecida/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/es/bible/weekly/es/5-claves-para-una-vida-bendecida/</guid>
-      <description>&lt;p&gt;Todos queremos ser bendecidos. Todos queremos vivir vidas en paz y con
-mucho gozo y alegría. Lo interesante es que por mas esfuerzos que
-enfoquemos para logarlo, humanamente, nunca lo lograremos. Pero, hay
-una buena noticia, La Palabra de Dios nos instruye sobre cómo podemos
-ser verdaderamente bendecidos en un mundo tan incierto y difícil de
-entender.&lt;/p&gt;</description>
+      <guid>https://obedmr.com/es/bible/weekly/es/5-claves-para-una-vida-bendecida/</guid>
+      <description>&lt;p&gt;Todos queremos ser bendecidos. Todos queremos vivir vidas en paz y con&#xA;mucho gozo y alegría. Lo interesante es que por mas esfuerzos que&#xA;enfoquemos para logarlo, humanamente, nunca lo lograremos. Pero, hay&#xA;una buena noticia, La Palabra de Dios nos instruye sobre cómo podemos&#xA;ser verdaderamente bendecidos en un mundo tan incierto y difícil de&#xA;entender.&lt;/p&gt;</description>
+      
     </item>
     
     <item>
       <title>Introducción al Tesoro Semanal</title>
-      <link>http://obedmr.com/es/bible/weekly/intro/</link>
+      <link>https://obedmr.com/es/bible/weekly/intro/</link>
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/es/bible/weekly/intro/</guid>
-      <description>&lt;p&gt;Este es un inicio de algo que quiero emprender. Un mensaje semanal de lo que estoy
-aprendiendo al estar estudiando la palabra de Dios. El propósito es compartir lo
-que Dios me permite aprender cada día.&lt;/p&gt;</description>
+      <guid>https://obedmr.com/es/bible/weekly/intro/</guid>
+      <description>&lt;p&gt;Este es un inicio de algo que quiero emprender. Un mensaje semanal de lo que estoy&#xA;aprendiendo al estar estudiando la palabra de Dios. El propósito es compartir lo&#xA;que Dios me permite aprender cada día.&lt;/p&gt;</description>
+      
     </item>
     
     <item>
       <title>Tech talks</title>
-      <link>http://obedmr.com/es/tech/tech-talks/</link>
+      <link>https://obedmr.com/es/tech/tech-talks/</link>
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/es/tech/tech-talks/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;El propósito de esta página es para listar las pláticas tecnológicas que me ha tocado compartir en diferentes foros&lt;/p&gt;</description>
+      <guid>https://obedmr.com/es/tech/tech-talks/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;El propósito de esta página es para listar las pláticas tecnológicas que me ha tocado compartir en diferentes foros&lt;/p&gt;</description>
+      
     </item>
     
     <item>
       <title>Vagrant: A fast way for building development environments</title>
-      <link>http://obedmr.com/es/tech/es/vagrant/</link>
+      <link>https://obedmr.com/es/tech/es/vagrant/</link>
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://obedmr.com/es/tech/es/vagrant/</guid>
-      <description>This is the first time a come to Zacatecas. This time I&amp;rsquo;m presenting an overview of Vagrant and how it&amp;rsquo;s used for accelerating development.
-If you want to take a look on my presentation, feel free to take a look on it and comment. Vagrant</description>
+      <guid>https://obedmr.com/es/tech/es/vagrant/</guid>
+      <description>&lt;p&gt;This is the first time a come to Zacatecas. This time I&amp;rsquo;m presenting an overview of Vagrant and how&#xA;it&amp;rsquo;s used for accelerating development.&lt;/p&gt;</description>
+      
     </item>
     
   </channel>
